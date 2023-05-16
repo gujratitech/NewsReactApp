@@ -17,7 +17,7 @@ const News =(props)=> {
   //   super(props);
   //   this.state = {
   //     articles: [],
-  //     loading: true,
+  //     loading: true
   //     page: 1,
   //     totalResults:0
   //   };
